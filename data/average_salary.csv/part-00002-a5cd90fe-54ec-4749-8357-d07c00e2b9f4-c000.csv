@@ -1,0 +1,111 @@
+Age,Attrition,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,WorkLifeBalance,YearsAtCompany,AverageSalary
+29,No,Research & Development,2,1,Life Sciences,1,4,Divorced,8853,1,4,6,6612.75
+30,No,Research & Development,16,1,Life Sciences,2,4,Married,2862,1,2,10,6612.75
+49,No,Research & Development,2,1,Life Sciences,2,4,Married,19161,3,3,5,6612.75
+41,No,Research & Development,19,2,Life Sciences,3,1,Divorced,3072,2,2,1,5489.615384615385
+37,No,Research & Development,10,2,Life Sciences,4,4,Single,4680,3,3,1,5489.615384615385
+27,No,Research & Development,4,2,Life Sciences,1,3,Divorced,2517,1,3,5,5489.615384615385
+57,No,Research & Development,1,2,Life Sciences,2,3,Married,4900,0,2,12,5489.615384615385
+40,No,Research & Development,2,2,Life Sciences,3,1,Married,3377,4,2,4,5489.615384615385
+54,No,Research & Development,9,2,Life Sciences,1,3,Married,2897,3,2,4,5489.615384615385
+24,No,Research & Development,1,2,Life Sciences,2,3,Single,4617,1,2,4,5489.615384615385
+40,No,Research & Development,15,3,Life Sciences,1,3,Married,10435,1,3,18,6416.867924528302
+37,No,Research & Development,19,3,Life Sciences,3,3,Married,5768,3,2,4,6416.867924528302
+28,No,Research & Development,1,3,Life Sciences,3,4,Married,2044,1,4,5,6416.867924528302
+43,No,Research & Development,11,3,Life Sciences,1,3,Married,7510,1,3,10,6416.867924528302
+30,No,Research & Development,23,3,Life Sciences,1,3,Divorced,2613,1,2,10,6416.867924528302
+32,No,Research & Development,7,3,Life Sciences,2,2,Married,2794,1,1,5,6416.867924528302
+30,No,Research & Development,2,3,Life Sciences,3,4,Single,6091,2,3,5,6416.867924528302
+30,No,Research & Development,3,3,Life Sciences,3,4,Married,2097,4,1,5,6416.867924528302
+21,Yes,Research & Development,10,3,Life Sciences,3,1,Single,1416,1,2,1,6416.867924528302
+28,No,Research & Development,1,3,Life Sciences,3,4,Married,6674,0,3,9,6416.867924528302
+26,No,Research & Development,3,3,Life Sciences,1,4,Married,2061,1,3,1,6416.867924528302
+35,No,Research & Development,28,3,Life Sciences,2,3,Married,3407,1,2,10,6416.867924528302
+40,No,Research & Development,1,4,Life Sciences,3,2,Married,13503,1,2,22,5731.725
+42,No,Research & Development,1,4,Life Sciences,2,1,Divorced,2576,3,3,5,5731.725
+35,Yes,Research & Development,25,4,Life Sciences,4,2,Divorced,2022,1,2,10,5731.725
+53,No,Research & Development,23,4,Life Sciences,4,4,Single,14275,6,3,12,5731.725
+36,No,Research & Development,2,4,Life Sciences,3,2,Single,5410,9,3,16,5731.725
+36,No,Research & Development,12,4,Life Sciences,3,3,Married,4663,9,3,3,5731.725
+34,No,Research & Development,10,4,Life Sciences,3,4,Divorced,4724,1,3,9,5731.725
+49,No,Research & Development,25,4,Life Sciences,3,1,Married,3211,1,2,9,5731.725
+46,No,Research & Development,13,4,Life Sciences,3,2,Single,5562,6,3,10,5731.725
+35,No,Research & Development,27,4,Life Sciences,4,3,Married,6883,2,3,7,5731.725
+38,No,Research & Development,29,5,Life Sciences,4,4,Single,2406,1,3,10,7758.0
+40,No,Research & Development,9,5,Life Sciences,4,4,Married,4876,9,1,3,7758.0
+42,No,Research & Development,23,5,Life Sciences,1,4,Single,15992,2,3,1,7758.0
+35,No,Research & Development,27,1,Medical,3,1,Single,2559,1,2,6,6356.727272727273
+55,No,Research & Development,8,1,Medical,4,2,Divorced,13577,1,3,33,6356.727272727273
+21,No,Research & Development,5,1,Medical,3,4,Single,3117,1,3,2,6356.727272727273
+40,No,Research & Development,2,1,Medical,4,4,Single,2342,0,2,4,6356.727272727273
+30,No,Research & Development,2,1,Medical,2,4,Single,2720,0,3,5,6356.727272727273
+44,Yes,Research & Development,15,3,Medical,1,4,Married,7978,1,3,10,6628.263157894737
+40,No,Research & Development,2,3,Medical,3,3,Divorced,2345,2,4,3,6628.263157894737
+37,No,Research & Development,10,3,Medical,2,2,Married,3936,1,1,8,6628.263157894737
+54,No,Research & Development,10,3,Medical,3,1,Single,4440,6,3,5,6628.263157894737
+51,No,Research & Development,2,3,Medical,4,2,Divorced,5482,5,3,4,6628.263157894737
+25,Yes,Research & Development,3,3,Medical,1,1,Married,4031,5,3,2,6628.263157894737
+56,No,Research & Development,9,3,Medical,3,4,Married,11103,7,2,10,6628.263157894737
+27,No,Research & Development,7,3,Medical,4,1,Single,6811,8,1,7,6628.263157894737
+39,Yes,Research & Development,6,3,Medical,4,1,Married,2404,7,1,2,6628.263157894737
+28,Yes,Research & Development,1,3,Medical,1,2,Divorced,2596,1,3,1,6628.263157894737
+51,No,Research & Development,1,4,Medical,1,1,Single,7484,3,2,13,6847.05
+49,No,Research & Development,20,4,Medical,3,1,Married,6567,1,2,15,6847.05
+36,No,Research & Development,1,4,Medical,4,3,Married,4374,0,3,3,6847.05
+35,No,Research & Development,11,4,Medical,4,3,Married,2660,7,3,2,6847.05
+29,Yes,Research & Development,1,4,Medical,1,4,Married,4787,9,4,2,6847.05
+32,No,Research & Development,2,4,Medical,1,4,Single,5055,7,2,7,6847.05
+54,No,Research & Development,19,4,Medical,4,1,Divorced,5485,9,3,5,6847.05
+40,No,Research & Development,9,4,Medical,4,2,Divorced,3617,8,3,1,6847.05
+32,No,Research & Development,3,4,Medical,3,1,Married,6725,1,4,8,6847.05
+35,No,Research & Development,1,4,Medical,4,3,Married,2258,6,3,8,6847.05
+40,No,Research & Development,24,2,Technical Degree,1,4,Divorced,3319,1,3,9,8897.8
+48,No,Research & Development,2,2,Technical Degree,4,2,Single,2559,5,2,1,8897.8
+55,No,Research & Development,20,2,Technical Degree,2,4,Married,5415,3,3,10,8897.8
+49,No,Research & Development,1,2,Technical Degree,3,3,Single,13964,7,3,7,8897.8
+30,No,Research & Development,7,3,Technical Degree,3,3,Divorced,1274,1,2,1,5457.111111111111
+29,Yes,Research & Development,7,3,Technical Degree,2,3,Divorced,3339,3,3,7,5457.111111111111
+28,No,Research & Development,1,3,Technical Degree,4,1,Single,2080,2,2,3,5457.111111111111
+58,No,Research & Development,5,3,Technical Degree,3,2,Divorced,10552,2,3,6,5457.111111111111
+38,No,Research & Development,1,3,Technical Degree,4,1,Married,13582,1,3,15,5457.111111111111
+32,No,Research & Development,2,3,Technical Degree,4,1,Single,2439,1,3,4,5457.111111111111
+27,No,Sales,20,3,Life Sciences,4,3,Single,9981,1,3,7,8593.526315789473
+38,No,Sales,3,3,Life Sciences,1,3,Divorced,10609,0,2,16,8593.526315789473
+21,Yes,Sales,12,3,Life Sciences,3,2,Single,2716,1,3,1,8593.526315789473
+25,No,Sales,8,3,Life Sciences,4,2,Married,4851,0,3,3,8593.526315789473
+50,No,Sales,1,3,Life Sciences,4,3,Married,6347,0,3,18,8593.526315789473
+51,No,Sales,9,3,Life Sciences,4,2,Divorced,19847,4,2,29,8593.526315789473
+52,Yes,Sales,5,3,Life Sciences,2,2,Single,8446,9,2,8,8593.526315789473
+29,No,Sales,19,3,Life Sciences,3,3,Divorced,8620,1,3,10,8593.526315789473
+28,No,Sales,7,3,Life Sciences,3,1,Single,4898,0,3,4,8593.526315789473
+27,No,Sales,2,3,Life Sciences,4,3,Single,4478,1,3,5,8593.526315789473
+36,No,Sales,1,4,Life Sciences,2,3,Single,6815,6,3,1,6496.045454545455
+55,No,Sales,18,5,Life Sciences,1,2,Single,16835,3,3,10,16835.0
+25,No,Sales,4,1,Marketing,3,1,Married,4256,1,4,5,12050.5
+52,Yes,Sales,2,1,Marketing,1,4,Married,19845,1,3,32,12050.5
+40,No,Sales,2,2,Marketing,4,2,Divorced,5715,7,3,5,7769.8
+46,No,Sales,4,2,Marketing,4,2,Married,18789,2,3,11,7769.8
+37,No,Sales,9,2,Marketing,2,2,Married,4189,1,3,5,7769.8
+40,No,Sales,2,2,Marketing,2,2,Married,5677,3,3,11,7769.8
+53,No,Sales,6,2,Marketing,2,3,Married,2306,2,1,7,7769.8
+31,No,Sales,20,2,Marketing,4,3,Married,6932,1,2,9,7769.8
+34,No,Sales,2,4,Marketing,3,3,Married,2231,6,3,4,7110.6
+28,No,Sales,2,4,Marketing,2,2,Married,4779,1,3,8,7110.6
+30,No,Sales,7,4,Marketing,4,1,Divorced,4779,7,3,3,7110.6
+47,No,Sales,2,4,Marketing,3,2,Married,4978,7,1,1,7110.6
+33,No,Sales,10,4,Marketing,2,3,Single,5487,1,2,10,7110.6
+44,No,Sales,1,5,Marketing,2,1,Divorced,5454,5,2,4,5794.0
+36,Yes,Sales,13,5,Marketing,2,1,Divorced,6134,5,3,2,5794.0
+29,No,Sales,1,1,Medical,2,4,Married,7918,1,3,11,5769.666666666667
+27,No,Sales,23,1,Medical,2,3,Married,3540,1,3,9,5769.666666666667
+21,No,Sales,5,1,Medical,3,1,Single,2380,1,3,2,5769.666666666667
+46,No,Sales,2,3,Technical Degree,3,2,Married,16872,3,2,7,6110.5
+30,No,Sales,12,3,Technical Degree,2,3,Single,6577,0,3,5,6110.5
+28,Yes,Sales,1,3,Technical Degree,1,3,Married,2909,3,4,3,6110.5
+29,Yes,Sales,13,3,Technical Degree,1,2,Single,5765,5,1,5,6110.5
+39,Yes,Sales,5,3,Technical Degree,4,4,Married,2086,3,4,1,6110.5
+29,No,Sales,20,3,Technical Degree,3,4,Married,2157,1,3,3,6110.5
+38,No,Sales,10,3,Technical Degree,3,4,Single,5666,1,3,5,6110.5
+40,No,Sales,10,3,Technical Degree,2,2,Divorced,6852,7,4,5,6110.5
+36,No,Sales,10,4,Technical Degree,2,3,Married,5673,1,3,10,7461.5
+30,No,Sales,29,4,Technical Degree,3,2,Married,9250,3,3,4,7461.5
