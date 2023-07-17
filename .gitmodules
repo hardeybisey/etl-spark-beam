@@ -1,0 +1,3 @@
+[submodule "beam-college"]
+	path = beam-college
+	url = ./
